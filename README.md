@@ -1,18 +1,17 @@
 # JS401 Lab-03 
-This lab demonstrates use of classes and their implementation.
+This lab demonstrates use of file read, save, write processes using fs.
 
 ## Links and Resources
-[Github Repo](https://github.com/401-advanced-javascript-1/lab-02)
+[Github Repo](https://github.com/401-advanced-javascript-1/lab-03)
+[Travis](https://www.travis-ci.com/401-advanced-javascript-1/lab-03)
 
 ## Documentation
 
 # Modules
-vehicle-class.js
-vehicle-constructor.js
-vehicle-factory.js
-list.js
-list-constructor.js
+edit-file.js
 index.js
+reader-fixed.js
+reader.test.js
 
 # Setup
 
